@@ -9,7 +9,7 @@
 - programar el script para que lea los numeros del archivo y calcule el modulo 37 de cada uno.
 - incluir en el script las condiciones para convertir esos resultados a letras mayusculas, numeros o guion bajo.
 - ejecutar el codigo en la terminal para obtener el texto descifrado.
-- envolver ese texto final con el formato de la bandera para poder enviarla.
+- envolver ese texto final con el formato de la bandera
 ## Notas adicionales 
 
 ## Referencias 

@@ -13,7 +13,7 @@
 - nos dirigimos al directorio ssh y vemos llaves publicas y privadas 
 - usamos el comando icat -o y lo mandamos a un archivo en disco 
 - le damos permisos de solo lectura 
-- y entramos al servidor con el archivo donde tenemos la llave ssh -i key_file -p 49229 ctf-player@saturn.picoctf.net
+- y entramos al servidor con el archivo donde tenemos la llave ssh -i key_file -p 49229 
 ## Notas adicionales 
 
 ## Referencias 

@@ -7,7 +7,7 @@
 - buscar en internet una tabla de referencia del alfabeto de banderas maritimas
 -  traducir visualmente cada bandera de la imagen a su letra o numero correspondiente guiandose con la tabla
 - anotar los caracteres descubiertos en orden para formar el texto completo
-- ingresar la cadena de texto resultante directamente en la plataforma de picoctf
+- ingresar la cadena de texto resultante
 ## Notas adicionales 
 
 ## Referencias 

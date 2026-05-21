@@ -9,7 +9,7 @@
 - leer el contenido del archivo de texto extraido llamado encrypted.txt.
 - identificar que el texto utiliza el cifrado Atbash por la estructura invertida de las letras.
 - aplicar la sustitucion de Atbash para invertir el abecedario y revelar el mensaje original.
-- obtener la bandera descifrada para ingresarla en la plataforma.
+- obtener la bandera descifrada 
 ## Notas adicionales 
 
 ## Referencias 

@@ -8,7 +8,7 @@
 - utilizar la herramienta openssl con el comando openssl req -in nombre_del_archivo.csr -noout -text para inspeccionar su contenido
 - leer la salida generada en la terminal y buscar la seccion subject del certificado
 - copiar la bandera que se encuentra visible como texto plano dentro de esa seccion
-- enviar la bandera encontrada a la plataforma de picoctf
+- enviar la bandera encontrada
 ## Notas adicionales 
 
 ## Referencias 
