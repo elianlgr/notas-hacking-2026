@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de696fdab409875f",
+            "id": "8530a14ab704c754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/04 - picoCTF Crypto/05 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "379801b8b3fb8917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lest Warm UP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Lest Warm UP"
+              "title": "05 - flags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0efa24a1b4da1821",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lest Warm UP.md",
+                "file": "picoCTF/01 - General Skills/10 - First Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 01 - Lest Warm UP"
+              "title": "Enlaces entrantes de 10 - First Find"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lest Warm UP.md",
+                "file": "picoCTF/01 - General Skills/10 - First Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 01 - Lest Warm UP"
+              "title": "Enlaces salientes de 10 - First Find"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lest Warm UP.md",
+                "file": "picoCTF/01 - General Skills/10 - First Find.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 01 - Lest Warm UP"
+              "title": "Esquema de 10 - First Find"
             }
           }
         ]
@@ -198,16 +183,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "379801b8b3fb8917",
+  "active": "8530a14ab704c754",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "picoCTF/01 - General Skills/01 - Lest Warm UP.md",
-    "picoCTF/01 - General Skills",
-    "picoCTF/01 - General Skills.md",
-    "picoCTF/01- Lest Warm up.md",
-    "Sin nombre",
-    "picoCTF",
-    "README.md",
-    "Bienvenido.md"
+    "picoCTF/04 - picoCTF Crypto/04 - ReadMyCert.md",
+    "picoCTF/04 - picoCTF Crypto/05 - flags.md",
+    "picoCTF/04 - picoCTF Crypto/03 - HideToSee.md",
+    "picoCTF/04 - picoCTF Crypto/02 - basic-mod1.md",
+    "picoCTF/04 - picoCTF Crypto/01 - Pixelated.md",
+    "picoCTF/04 - picoCTF Web/04 - Most Cookies.md",
+    "picoCTF/04 - picoCTF Web/03 - Trickster.md",
+    "picoCTF/04 - picoCTF Web/02 - SOAP.md",
+    "picoCTF/04 - picoCTF Web/01 - MatchTheRegex.md",
+    "picoCTF/03 - picoCTF Web/01 - Irish-Name-Repo 1.md",
+    "picoCTF/03 - picoCTF Web/02 - More SQLi.md",
+    "picoCTF/03 - picoCTF Web/03 - JaWT Scratchpad.md",
+    "picoCTF/01 - picoCTF Crypto/03 - Easy 1.md",
+    "picoCTF/01 - picoCTF Crypto/02 - 13.md",
+    "picoCTF/01 - picoCTF Crypto/01 - The numbers.md",
+    "picoCTF/03 picoCTF Forensic/05 - MacroHard WeakEdge.md",
+    "picoCTF/03 picoCTF Forensic/04 - tunn3l_v1s10n.md",
+    "picoCTF/03 picoCTF Forensic/03 - Matryoshka doll.md",
+    "picoCTF/03 picoCTF Forensic/02 - Webnet1.md",
+    "picoCTF/03 picoCTF Forensic/01 - WebNet0.md",
+    "picoCTF/02 - picoCTF Web/03 - Scavenger Hunt.md",
+    "picoCTF/02 - picoCTF Web/02 - Cookies.md",
+    "picoCTF/02 - picoCTF Web/01 - GET aHEAD.md",
+    "picoCTF/01 - picoCTF Web/06 - Client-side-again.md",
+    "picoCTF/01 - picoCTF Web/05 - picobrowser.md",
+    "picoCTF/01 - picoCTF Web/04 - dont-use-client-side.md",
+    "picoCTF/04 - picoCTF Crypto",
+    "picoCTF/03 - picoCTF Crypto",
+    "picoCTF/02 - picoCTF Crypto",
+    "picoCTF/01 - picoCTF Crypto/Sin nombre",
+    "picoCTF/01 - picoCTF Crypto",
+    "picoCTF/04 - picoCTF Forensic",
+    "Pasted image 20260514202727.png",
+    "picoCTF/03 picoCTF Forensic/Sin nombre",
+    "picoCTF/03 picoCTF Forensic",
+    "picoCTF/02 - picoCTF Forensic",
+    "picoCTF/01 - picoCTF Forensic"
   ]
 }
