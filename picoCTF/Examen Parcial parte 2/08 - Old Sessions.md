@@ -10,4 +10,5 @@
 - vamos al apartado de cokies y en values pegamos el token del admin para que nos de la bandera 
 ## Notas adicionales 
 
+![[Pasted image 20260614115413.png]]
 ## Referencias 

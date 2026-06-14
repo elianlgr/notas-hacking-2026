@@ -10,4 +10,5 @@
 - ejecute el comando iterativo for pass in $(cat level4.py); do echo $pass | tr -d ,[] | python3 level4.py; done | grep pico para extraer las contraseñas del script limpiarlas y probarlas todas automaticamente
 ## Notas adicionales 
 
+![[Pasted image 20260614113612.png]]
 ## Referencias 

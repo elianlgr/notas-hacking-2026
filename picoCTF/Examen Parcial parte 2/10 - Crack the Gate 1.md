@@ -6,4 +6,5 @@
 ![[Pasted image 20260613035415.png]]
 ## Notas adicionales 
 
+![[Pasted image 20260614115459.png]]
 ## Referencias 

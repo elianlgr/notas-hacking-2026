@@ -8,4 +8,5 @@
 - En el prompt que pide la dirección IP, inyecté el comando para leer el texto directamente usando: ; cat flag.txt
 ## Notas adicionales 
 
+![[Pasted image 20260614113906.png]]
 ## Referencias 

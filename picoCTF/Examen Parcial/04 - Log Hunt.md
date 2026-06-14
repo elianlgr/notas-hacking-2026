@@ -12,4 +12,5 @@
 - Reconstruí la cadena de texto uniéndolos en su orden lógico para obtener y capturar la bandera final exitosamente.
 ## Notas adicionales 
 
+![[Pasted image 20260614113652.png]]
 ## Referencias 

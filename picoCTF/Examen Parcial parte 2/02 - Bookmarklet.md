@@ -16,4 +16,5 @@
 - Ejecuté el script limpio con el comando node script.js, lo que procesó la cadena original intacta y me devolvió la bandera
 ## Notas adicionales 
 
+![[Pasted image 20260614115201.png]]
 ## Referencias 

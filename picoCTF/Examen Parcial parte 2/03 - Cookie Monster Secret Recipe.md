@@ -18,4 +18,5 @@
 - El sistema procesó la cadena y me reveló la bandera
 ## Notas adicionales 
 
+![[Pasted image 20260614115228.png]]
 ## Referencias 

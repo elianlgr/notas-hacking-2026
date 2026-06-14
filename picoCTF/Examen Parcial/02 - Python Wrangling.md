@@ -8,4 +8,5 @@
 - ejecute el comando python3 ende.py -d flag.txt.en < password.txt para desencriptar el archivo inyectando la contraseña directamente
 ## Notas adicionales 
 
+![[Pasted image 20260614114021.png]]
 ## Referencias 

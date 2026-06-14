@@ -13,4 +13,5 @@
 - Utilicé el comando grep para filtrar el documento y buscar automáticamente el patrón de texto específico de la bandera.
 ## Notas adicionales 
 
+![[Pasted image 20260614115253.png]]
 ## Referencias 

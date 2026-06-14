@@ -12,4 +12,5 @@
 - tr a-zA-Z n-za-mN-ZA-M: Rota las letras 13 posiciones para traducir el formato oculto a la bandera final.
 ## Notas adicionales 
 
+![[Pasted image 20260614113740.png]]
 ## Referencias 

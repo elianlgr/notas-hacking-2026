@@ -18,4 +18,5 @@
 - Escribí cat flag.txt en tu terminal para leer el contenido del archivo descargado y obtener la respuesta.
 ## Notas adicionales 
 
+![[Pasted image 20260614113812.png]]
 ## Referencias 
